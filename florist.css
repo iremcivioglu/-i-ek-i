@@ -1,0 +1,23 @@
+h1 {
+    color: crimson;
+    align-content: center;
+    font-size: 60px;
+}
+
+h2,
+h3 {
+    color: maroon;
+    text-size-adjust: 74px;
+}
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.resim {
+    background: transparent;
+    padding: 8px;
+    border: 1px solid #212121;
+}
